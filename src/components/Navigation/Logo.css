@@ -1,6 +1,8 @@
-div { 
-    height: '200px';
-    width: '300px';
-    background-color: 'darkgreen'; 
-    align-items:"center";
+.Tilt {
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%); /* w3c */
+    
 }
+
+/* div { 
+    align-items:"center";
+}  */
